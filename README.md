@@ -1,8 +1,8 @@
 # VK trainee pokemon app
 
-Android-приложение для просмотра списка покемонов по тестовому заданию VK
+Android app for viewing a list of pokemons according to the VK test task.
 
-## Стек
+## Tech stack
 
 - Kotlin
 - MVVM
